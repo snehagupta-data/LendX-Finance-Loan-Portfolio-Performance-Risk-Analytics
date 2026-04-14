@@ -1,0 +1,21 @@
+branch_id,branch_name,city,state,region
+BR001,Mumbai Central,Mumbai,Maharashtra,West
+BR002,Andheri West,Pune,Maharashtra,West
+BR003,Pune Koregaon Park,Nagpur,Maharashtra,West
+BR004,Nagpur Sitabuldi,Delhi,Delhi,North
+BR005,New Delhi Connaught Place,Noida,Uttar Pradesh,North
+BR006,Noida Sector 18,Gurgaon,Haryana,North
+BR007,Gurgaon Cyber City,Jaipur,Rajasthan,North
+BR008,Jaipur Malviya Nagar,Lucknow,Uttar Pradesh,North
+BR009,Lucknow Gomti Nagar,Chandigarh,Punjab,North
+BR010,Chandigarh Sector 17,Bengaluru,Karnataka,South
+BR011,Bengaluru MG Road,Chennai,Tamil Nadu,South
+BR012,Bengaluru Whitefield,Hyderabad,Telangana,South
+BR013,Chennai Anna Nagar,Kochi,Kerala,South
+BR014,Hyderabad Banjara Hills,Coimbatore,Tamil Nadu,South
+BR015,Kochi Marine Drive,Kolkata,West Bengal,East
+BR016,Kolkata Park Street,Bhubaneswar,Odisha,East
+BR017,Bhubaneswar Patia,Patna,Bihar,East
+BR018,Ahmedabad Navrangpura,Guwahati,Assam,East
+BR019,Surat Adajan,Ahmedabad,Gujarat,West
+BR020,Coimbatore RS Puram,Surat,Gujarat,West

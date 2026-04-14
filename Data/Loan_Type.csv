@@ -1,0 +1,6 @@
+loan_type_id,loan_type_name,risk_level
+LT01,Personal Loan,High
+LT02,Home Loan,Low
+LT03,Auto Loan,Medium
+LT04,Business Loan,Medium
+LT05,BNPL,High
