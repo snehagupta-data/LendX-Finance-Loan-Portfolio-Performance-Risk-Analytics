@@ -66,7 +66,7 @@ This analysis focuses on identifying **risk concentration and profitability gaps
 
 The project follows a **Star Schema** design with 2 fact tables and 4 dimension tables:
 
-![Data Model](Data Model/Data MODEL.png)
+![Data Model](Data%20Model/DATA%20MODEL.png)
 
 ```
                     ┌──────────────┐
@@ -183,41 +183,39 @@ The `.pbix` file contains **7 interactive report pages**:
 ### 🏠 Home
 Landing page with project context, business problem statement, and navigation to all report pages.
 
-![Dashboard Image](LENDX FINANCE.png)
-
+![Home](Dashboard%20Image/LENDX%20FINANCE.png)
 
 ### 📋 Executive Overview
 
-![Dashboard Image](EXECUTIVE OVERVIEW.png)
-
+![Executive Overview](Dashboard%20Image/EXECUTIVE%20OVERVIEW.png)
 
 ### 📈 Growth & Time Analysis
 
-![Dashboard Image](GROWTH & TIME ANALYSIS.png)
+![Growth & Time Analysis](Dashboard%20Image/GROWTH%20%26%20TIME%20ANALYSIS.png)
 
 ### 👥 Customer Insights
 
-![Dashboard Image](CUSTOMER INSIGHTS.png)
+![Customer Insights](Dashboard%20Image/CUSTOMER%20INSIGHTS.png)
 
-![Dashboard Image](CUSTOMER INSIGHTS - DETAIL VIEW.png)
+![Customer Insights Detail](Dashboard%20Image/CUSTOMER%20INSIGHTS%20-%20DETAIL%20VIEW.png)
 
 ### 💼 Loan Portfolio Analysis
 
-![Dashboard Image](LOAN PORTFOLIO ANALYSIS.png)
+![Loan Portfolio Analysis](Dashboard%20Image/LOAN%20PORTFOLIO%20ANALYSIS.png)
 
-![Dashboard Image](LOAN PORTFOLIO ANALYSIS - DETAIL VIEW.png)
+![Loan Portfolio Detail](Dashboard%20Image/LOAN%20PORTFOLIO%20ANALYSIS%20-%20DETAIL%20VIEW.png)
 
 ### ⚠️ Risk & Default Analysis
 
-![Dashboard Image](RISK & DEFAULT ANALYSIS.png)
+![Risk & Default Analysis](Dashboard%20Image/RISK%20%26%20DEFAULT%20ANALYSIS.png)
 
 ### 🏢 Branch Performance
 
-![Dashboard Image](BRANCH PERFORMANCE.png)
+![Branch Performance](Dashboard%20Image/BRANCH%20PERFORMANCE.png)
 
 ### 💡 Insights
 
-![Dashboard Image](INSIGHTS.png)
+![Insights](Dashboard%20Image/INSIGHTS.png)
 
 ---
 
